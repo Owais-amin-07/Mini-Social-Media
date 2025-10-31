@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-1-avatar",
+      "description": "Avatar for Sarah Lee",
+      "imageUrl": "https://images.unsplash.com/photo-1557053908-4793c484d06f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTM4NTI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "user-2-avatar",
+      "description": "Avatar for Mike P.",
+      "imageUrl": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjEzNjg0OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "user-3-avatar",
+      "description": "Avatar for Jane Doe",
+      "imageUrl": "https://images.unsplash.com/photo-1554727242-741c14fa561c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MTQxNjQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "user-4-avatar",
+      "description": "Avatar for Alex Smith",
+      "imageUrl": "https://images.unsplash.com/photo-1631710508857-d3414ff320f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBzdW5nbGFzc2VzfGVufDB8fHx8MTc2MTM2OTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person sunglasses"
+    },
+    {
+      "id": "user-5-avatar",
+      "description": "Avatar for Chris Green",
+      "imageUrl": "https://images.unsplash.com/photo-1618077360395-f3068be8e001?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8MTc2MTM4MTk0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "post-1-image",
+      "description": "A beautiful sunset over the ocean.",
+      "imageUrl": "https://images.unsplash.com/photo-1588001832198-c15cff59b078?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdW5zZXQlMjBvY2VhbnxlbnwwfHx8fDE3NjE0Mjk5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunset ocean"
+    },
+    {
+      "id": "post-2-image",
+      "description": "A delicious looking plate of pasta.",
+      "imageUrl": "https://images.unsplash.com/photo-1714611446679-6059b55d824e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYXN0YSUyMGZvb2R8ZW58MHx8fHwxNzYxNDUyMjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pasta food"
+    },
+    {
+      "id": "post-3-image",
+      "description": "A person hiking on a mountain trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1547203928-d8c7cc83e56f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb3VudGFpbiUyMGhpa2luZ3xlbnwwfHx8fDE3NjE0MjI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain hiking"
+    },
+    {
+      "id": "post-4-image",
+      "description": "A cityscape at night with glowing lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1513061379709-ef0cd1695189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaXR5JTIwbmlnaHR8ZW58MHx8fHwxNzYxMzczMDYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city night"
+    },
+    {
+      "id": "post-5-image",
+      "description": "A cute dog playing in a park.",
+      "imageUrl": "https://images.unsplash.com/photo-1619333774340-3a878585c2e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkb2clMjBwYXJrfGVufDB8fHx8MTc2MTQ0NjczMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dog park"
+    },
+    {
+      "id": "post-6-image",
+      "description": "A reader enjoying a book in a cozy cafe.",
+      "imageUrl": "https://images.unsplash.com/photo-1530457444374-24a7042c244c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYWZlJTIwcmVhZGluZ3xlbnwwfHx8fDE3NjEzOTkyNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cafe reading"
+    },
+    {
+      "id": "post-7-image",
+      "description": "Modern architecture building.",
+      "imageUrl": "https://images.unsplash.com/photo-1615406020658-6c4b805f1f30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzYxMzgxNzgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "post-8-image",
+      "description": "A serene lake surrounded by trees.",
+      "imageUrl": "https://images.unsplash.com/photo-1595018334853-b4603f5745eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzZXJlbmUlMjBsYWtlfGVufDB8fHx8MTc2MTQwNjI4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "serene lake"
+    },
+    {
+      "id": "post-9-image",
+      "description": "A concert with a cheering crowd.",
+      "imageUrl": "https://images.unsplash.com/photo-1656283384093-1e227e621fad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb25jZXJ0JTIwY3Jvd2R8ZW58MHx8fHwxNzYxMzkyNTYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert crowd"
+    },
+    {
+      "id": "post-10-image",
+      "description": "Close up of a flower.",
+      "imageUrl": "https://images.unsplash.com/photo-1749700153821-da4068b731ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmbG93ZXIlMjBjbG9zZS11cHxlbnwwfHx8fDE3NjEzNTMwMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flower close-up"
+    }
+  ]
+}
